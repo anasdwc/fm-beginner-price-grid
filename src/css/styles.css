@@ -11,7 +11,7 @@ main .price--subscription p:nth-child(3), main .price--subscription--desc {
 }
 
 body {
-  background-color: hsl(218deg, 22%, 67%);
+  background-color: hsl(204deg, 43%, 93%);
   font-size: 16px;
   display: grid;
   grid-template-rows: 1.75fr 0.25fr;
